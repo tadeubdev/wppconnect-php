@@ -26,4 +26,4 @@ jobs:
           file: ./docker/Dockerfile
           push: true
           tags: |
-            bgastaldi/myapp:latest
+            tadeubarbosa/wppconnect-php:latest

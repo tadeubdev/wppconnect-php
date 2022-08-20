@@ -47,7 +47,7 @@ if($_GET):
         # Function: Send Message
         # /api/:session/send-message
         $response = $wppconnect->sendMessage([
-            'phone' => '5514997943471',
+            'phone' => '553197993890',
             'message' => 'Opa, funciona mesmo!',
             'isGroup' => false
         ]);
